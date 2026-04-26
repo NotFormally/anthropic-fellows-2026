@@ -1,0 +1,29 @@
+{
+  "name": "llm-evaluation-harness",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Clinician-led LLM evaluation harness for high-stakes mental-health deployments. Multi-model benchmarking with Bayesian-calibrated rubric scoring across psychiatric-safety dimensions.",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/harness.js",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "benchmark": "tsx examples/run-benchmark.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "@google/generative-ai": "^0.24.0",
+    "dotenv": "^16.4.0",
+    "openai": "^4.80.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

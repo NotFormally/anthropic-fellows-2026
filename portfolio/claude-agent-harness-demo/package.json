@@ -1,0 +1,24 @@
+{
+  "name": "claude-agent-harness-demo",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Production patterns for Anthropic Claude — verifier/repair orchestration and multi-tenant cost tracking.",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "@supabase/supabase-js": "^2.58.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
