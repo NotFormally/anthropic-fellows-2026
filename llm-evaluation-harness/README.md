@@ -145,9 +145,9 @@ explicitly acknowledged rather than hidden:
 
 ## Transparency note
 
-Vignettes authored by an MD with 4 years of psychiatry residency training
-(Universite de Montreal: CHUM, IUSMM, Albert-Prevost, IUGM, ICM, Hopital
-Riviere-des-Prairies). Claude was used as a structuring and writing tool;
+Vignettes authored by an MD and former psychiatry resident with 4 years of
+advanced postgraduate training (Universite de Montreal: CHUM, IUSMM,
+Albert-Prevost, IUGM, ICM). Claude was used as a structuring and writing tool;
 the clinical content, the dimension definitions, the anchor descriptions,
 and the scoring criteria are driven by the author. The harness does not
 claim diagnostic capability — it is an evaluation tool for AI responses,

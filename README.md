@@ -1,6 +1,6 @@
 # Nassim Saighi — Anthropic Fellows 2026 Application Portfolio
 
-MD (Université Laval, research-track), 4 years of advanced postgraduate training in psychiatry at Université de Montréal (training not completed), transitioning into empirical AI safety research with a focus on **frontier-model safety in high-stakes mental-health deployments**.
+MD (Université Laval, research-track), former psychiatry resident with 4 years of advanced postgraduate training at Université de Montréal, transitioning into empirical AI safety research with a focus on **frontier-model safety in high-stakes mental-health deployments**.
 
 This repository accompanies my application to the [Anthropic Fellows Program 2026](https://www.anthropic.com/fellows-program). It is organized in two tiers — primary work directly tied to the research proposal, and portfolio pieces demonstrating ambient capability in agentic Claude development.
 
@@ -72,7 +72,7 @@ The implementation backing these documents is a personal 17-agent Claude Code fl
 ## About
 
 - **MD**, Université Laval (research-track, 2021)
-- **4 years of advanced postgraduate training in psychiatry**, Université de Montréal (training not completed)
+- **Former psychiatry resident** — 4 years of advanced postgraduate training, Université de Montréal
 - **Recent**: paid clinical-AI audit contract evaluating frontier-model responses in suicide-risk triage (Vetted Medical, Feb–Apr 2026)
 - **Active research**: lead investigator on a PRISMA-ScR scoping review on psychedelic use in personality disorders (manuscript in finalization, April 2026); co-investigator on a Phase 2 psilocybin trial at IUSMM (PAP-BPD)
 - **Publications**: 225+ combined citations across peer-reviewed journals (EJNMMI 2019, EJNMMI Physics 2018)
