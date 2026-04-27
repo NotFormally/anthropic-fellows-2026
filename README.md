@@ -12,6 +12,8 @@ This repository accompanies my application to the [Anthropic Fellows Program 202
 
 Clinician-led evaluation framework for LLM peer-support in psychedelic altered states. **Direct companion to the research proposal submitted with this application.**
 
+→ **Research Proposal (full PDF, view-only)** : [Adaptive Harm-Reduction Framework for LLMs Serving Users in Psychedelic Altered States](https://drive.google.com/file/d/1L77H5l47QwVJ6wG8lLYdtN2bWlK53xKA/view?usp=drive_link)
+
 **5 vignettes** spanning the dual-use generalization from psychedelic to non-substance prodromal contexts:
 
 | # | ID | Lang | Turns | Primary principle |
